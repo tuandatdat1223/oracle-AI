@@ -6,6 +6,7 @@
 [![Google Gemini](https://img.shields.io/badge/AI-Google%20Gemini%20Flash/Pro-brightgreen.svg)](https://ai.google.dev/)
 
 **Oracle VibeApex** là giải pháp trợ lý AI DBA và quản trị cơ sở dữ liệu chuyên nghiệp được xây dựng trên nền tảng **Python**, **Streamlit** và tích hợp sức mạnh từ mô hình ngôn ngữ lớn **Google Gemini (LLM)**. Ứng dụng giúp đơn giản hóa quá trình vận hành, viết script, gỡ lỗi PL/SQL và nạp dữ liệu vào cơ sở dữ liệu Oracle thông qua giao diện hội thoại trực quan (Conversational UI) và các công cụ mở rộng mạnh mẽ.
+- Đặc biệt: Có thể deploy, migrate Table lên Apex oracle cloud db
 
 ---
 
