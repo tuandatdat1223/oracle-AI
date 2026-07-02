@@ -1,4 +1,4 @@
-# Oracle VibeApex AI Chatbot
+# Oracle VibeApex AI Agent
 
 Đây là một ứng dụng quản lý và tương tác với Oracle Database sử dụng trí tuệ nhân tạo (Gemini AI) và giao diện Streamlit.
 
