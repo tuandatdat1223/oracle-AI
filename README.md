@@ -8,6 +8,7 @@
 2. **Quản Lý Database Local:** Kết nối trực tiếp với Oracle Database nội bộ, truy vấn và trả về kết quả dưới dạng bảng.
 3. **Smart Data Importer:** Upload file Excel (.xlsx) hoặc CSV và tự động Import toàn bộ dữ liệu vào bảng Oracle.
 4. **Phân Tích AI:** Gửi cấu trúc và dữ liệu lỗi cho AI để tự động sửa lỗi và đưa ra lời khuyên.
+5. Xuất chuẩn định dạng để có thể up lên db của apex 
 
 ## Cách Cài Đặt
 
