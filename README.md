@@ -1,4 +1,4 @@
-# 💻 Oracle VibeApex: Trợ Lý Ảo AI DBA & Quản Trị Oracle Database Thông Minh
+# 💻 Oracle VibeApex: Trợ Lý Ảo AI DBA & Quản Trị Oracle Database Thông Minh & deploy Apex Table
 
 [![Python Version](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red.svg)](https://streamlit.io/)
