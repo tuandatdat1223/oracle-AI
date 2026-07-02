@@ -1,0 +1,19 @@
+# Môi trường ảo (Virtual Environments)
+venv/
+env/
+.env
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File cấu hình cá nhân (RẤT QUAN TRỌNG: Không upload API Key và Database config lên mạng)
+.env
+.env.*
+
+# Streamlit
+.streamlit/
+# Mac/Windows
+.DS_Store
+Thumbs.db
